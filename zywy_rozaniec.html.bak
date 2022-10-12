@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+    <title>Parafia św. Piotra i Pawła w Mikołowie - Paniowach</title>
+    <link rel="stylesheet" type="text/css" href="css/grupy_parafialne.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="skrypt_ekancelaria/ekancelaria.js"></script>
+  </head>
+  <body>
+    <script type="text/javascript" src="skrypt_kolory/color_day.js"></script>
+      <div id="page">
+        <img src="images/logo.png" id="logo" alt="Parish logo">
+
+        <div id="up_menu">
+          <ul>
+            <li> <a href="index.html" id="u1" class="main_button">Strona Główna</a></li>
+            <li> <a href="ogloszenia.html" class="main_button">Ogłoszenia</a></li>
+            <li> <a href="intencje.html" class="main_button">Intencje</a></li>
+            <li> <a href="galeria.html" class="main_button">Galeria</a></li>
+            <li> <a href="dokumenty.html" class="main_button">Dokumenty</a></li>
+            <li> <a href="sakramenty.html" class="main_button">Sakramenty</a></li>
+            <li> <a href="kontakt.html" class="main_button">Kontakt</a></li>
+          </ul>
+        </div>
+
+        <section id="main_inter">
+
+          <div class="left_menu" id="l1">
+            <ul> <h1>Życie parafii</h1>
+              <li> <a href="archiwum_ogloszen.html">Archwium ogłoszeń</a></li>
+              <li> <a href="archiwum_intencji.html">Archiwum intencji</a></li>
+              <li> <a href="rekolekcje.html">Rekolekcje</a></li>
+              <li> <a href="biezace_wydatki.html">Bieżące wydatki</a></li>
+              <li> <a href="gazetka_parafialna.html">Gazetka parafialna</a></li>
+            </ul>
+          </div>
+
+          <div class="left_menu" id="l2">
+            <ul> <h1>Grupy parafialne</h1>
+              <li> <a href="dzieci_komunijne.html">Dzieci komunijne</a></li>
+              <li> <a href="bierzmowancy.html">Bierzmowańcy</a></li>
+              <li> <a href="ministranci.html">Ministranci</a></li>
+              <li> <a href="dzieci_maryi.html">Dzieci Maryi</a></li>
+              <li> <a href="oaza.html">Oaza</a></li>
+              <li> <a href="domowy_kosciol.html">Domowy Kościół</a></li>
+              <li> <a href="zywy_rozaniec.html">Żywy Różaniec</a></li>
+              <li> <a href="margaretki.html">Margaretki</a></li>
+            </ul>
+          </div>
+
+          <div class="left_menu" id="l3">
+            <ul> <h1>O parafii</h1>
+              <li> <a href="historia.html">Historia parafii</a></li>
+              <li> <a href="poslugujacy.html">Posługujący księża</a></li>
+              <li> <a href="zmarli_d.html">Zmarli duszpasterze</a></li>
+              <li> <a href="patroni.html">Patroni naszej parafii</a></li>
+              <li> <a href="blogoslawiony.html">Błogosławiony XYZ</a></li>
+              <li> <a href="https://archidiecezjakatowicka.pl/">Diecezja Katowicka</a></li>
+            </ul>
+          </div>
+          <div class="right_menu" id="r1">
+            <h1>E-kancelaria</h1>
+            <a href="#">Wyślij zgłoszenie</a>
+          </div>
+
+          <div class="right_menu" id="r2">
+            <h1>Kancelaria</h1>
+            <p><b>Godziny otwarcia: </b></p>
+            <p><b>Wtorek:</b> 15:30-18:00</p>
+            <p><b>Śr-czw:</b> &nbsp 8:00-12:00</p>
+          </div>
+
+          <div class="right_menu" id="r3">
+            <h1><b>Msze Święte</b></h1>
+            <p><b>Pon-sob:</b> &nbsp&nbsp7:15 i 18:00 </p>
+            <p><b>Niedziela:</b> 8:00, 11:00, 16:00 </p>
+            <p><b>Nieszpory niedzielne: </b> 15:15</p>
+            <p><b>Różaniec:</b> 45 minut przed mszą wieczorną</p>
+            <p><b>Gorzkie żale:</b> niedziela 15:15</p>
+            <p><b>Droga Krzyżowa:</b> piątek 17:15</p>
+          </div>
+          <div class="right_menu" id="r4">
+            <h1><b>Spowiedź</b></h1>
+            <p>15 minut przed każdą mszą</p>
+            <p><b>Czwartek:</b> 17:00-18:00</p>
+          </div>
+
+          <div class="right_menu" id="r5">
+            <h1>Interatywny cmentarz</h1>
+            <a href="#">Przejdź na stronę</a>
+          </div>
+
+          <div class="center_text" id="c1">
+              <h2>Żywy różaniec</h2>
+              <hr />
+              <p class="title" style="font-weight: bold">Spotkania:</p>
+              <p><b style="margin-right:0px;">Drugi i czwarty poniedziałek miesiąca:</b> 19:00</p>
+              <hr />
+              <h3>O nas</h3>
+              <div style="text-align: justify">
+                  <p>
+                      Żywy Różaniec jest wspólnotą osób, które w duchu odpowiedzialności za Kościół i świat, w wielkiej prostocie otaczającą modlitewną opieką tych, którzy najbardziej tej modlitwy potrzebują i są wskazani zwłaszcza w Papieskich Intencjach Apostolstwa Modlitwy i Misji. Modlitwa różańcowa, powszechnie znana i wielokrotnie polecana przez papieży, zyskała popularność dzięki wspólnotowej formie, zainicjowanej przez sługę Bożą Paulinę Jaricot w Lyonie w 1826 r. Założone przez nią Stowarzyszenie Żywego Różańca zatwierdził papież Grzegorz XVI - konstytucją Benedicentes Domino w 1832 r. W Polsce praktyka Żywego Różańca stała się znana już pod koniec XIX w.
+                  </p>
+                  <p>
+                      Uczestnictwo w Żywym Różańcu polega na przynależności do grupy zwanej Różą (20 osób) lub płatkami (5 osób). Każda osoba przez miesiąc codziennie odmawia jedną tajemnicę różańcową tzw. "dziesiątkę" (np. trzecią tajemnicę części chwalebnej - Zesłanie Ducha Świętego). Modlitwa polega na rozważaniu przez Różę - 20 tajemnic z życia Jezusa i Maryi.
+                      Zmiana tajemnic jest wyznaczana na pierwszą sobotę lub niedzielę kolejnego miesiąca. Wszyscy członkowie Róży modlą się w tej samej intencji, która zmieniana jest również co miesiąc (Intencje Papieskie).
+                  </p>
+              </div>
+              <hr />
+              <p style="font-weight: bold">Tajemnice Różańca Świętego</p>
+              <div id="Rosary">
+                  <ul class="tabs">
+                      <li><a class="tab" id="tab1" href="#panel1" onclick="changeTab('tab1')">Tajemnice radosne</a></li>
+                      <li><a class="tab" id="tab2" href="#panel2" onclick="changeTab('tab2')">Tajemnice bolesne</a></li>
+                      <li><a class="tab" id="tab3" href="#panel3" onclick="changeTab('tab3')">Tajemnice chwalebne</a></li>
+                      <li><a class="tab" id="tab4" href="#panel4" onclick="changeTab('tab4')">Tajemnice światła</a></li>
+                  </ul>
+                  <div id="panelContainer">
+                      <div class="panel" id="#panel1">
+                          Pięć pierwszych tajemnic, nazwanych radosnymi, dotyczy wydarzeń, które dzieją się w rodzinie, są związane z poczęciem dziecka, szczególnie poczęciem Jezusa i Jana Chrzciciela, mówią o przeżyciach matek jeszcze przed narodzeniem dzieci, wreszcie wprowadzają w misterium narodzin i wzrostu Zbawiciela świata i Jego świętego Poprzednika. Rozważamy w tym tajemnicach również rodzinne odwiedziny, zrozumienie i niezrozumienie Bożego planu zbawienia, przyjęcie i nieprzyjęcie dziecka. Z tych racji znakiem radosnych tajemnic może być dom, w którym żyje rodzina. W tej rodzinie zamieszkuje Chrystus i ją uświęca.
+                      </div>
+                      <div class="panel" id="#panel2">
+                          Po rozważeniu tajemnic światła wkraczamy w kolejny etap zbawczej misji Jezusa Chrystusa. Obejmuje on czas Jego męki. Jest więc zrozumiałe, że znakiem bolesnych tajemnic jest krzyż. Udajemy się do Ogrójca, potem medytujemy biczowanie i cierniem koronowanie, wędrujemy z Jezusem na Golgotę i trwamy przy Nim w godzinie konania na Golgocie. Zazwyczaj pamiętam o tym, że tajemnice te są w sposób sakramentalny uobecniane w Eucharystii. Im głębiej wnikamy w niej w różańcowej medytacji, tym bardziej możemy się z Jezusem cierpiącym jednoczyć w czasie Mszy Świętej. Trzeba jednak pamiętać, że nie tylko tajemnice męki Jezusa są obecne w Eucharystii, lecz całe Jego życie. Dlatego każda rozważana w różańcu tajemnica prowadzi nas w głąb misterium eucharystycznego.
+                      </div>
+                      <div class="panel" id="#panel3">
+                          Płomień ognia jest powszechnym symbolem tajemnic chwalebnych. Wyraża on bowiem najważniejszy dar zmartwychwstałego Pana, jakim jest Duch Święty. Jezus został poczęty z Ducha Świętego, w Duchu Świętym wzrastał i przygotowywał się do wypełnienia misji, w mocy Ducha przeszedł dobrze czyniąc i nauczając wszystkich, a następnie w Duchu Świętym jako Najwyższy Kapłan złożył ofiarę pojednania i powrócił do życia. Tego Ducha przekazał Jezus Apostołom, aby przed Ducha prowadzeni szli aż na krańce świata i byli Jego świadkami. Ostateczny kres drogi ukazuje tajemnica Wniebowstąpienia Jezusa oraz Wniebowzięcia i ukoronowania Jego Matki.
+                      </div>
+                      <div class="panel" id="#panel4">
+                          Znakiem tajemnic światła jest często księga. Chodzi oczywiście o Pismo Święte. Ono bowiem kryje w sobie światło, które od Boga pochodzi i zostało przekazane ludziom. W różańcowych rozważaniach nieustannie odwołujemy się do słowa Bożego. Taka systematyczna medytacja, prowadzona każdego dnia, może stać się jedną z najpiękniejszych form przygotowania do głębszego przeżycia eucharystycznej liturgii słowa, w której spotkanie ze słowem Bożym ma szczególną moc. Autentyczne przeżywanie pięciu wybranych wydarzeń z publicznej działalności Chrystusa, w których odnajdujemy pewną syntezę całej Jego zbawczej działalności sprawia, że chrześcijanin bardziej żyje w świetle, znając lepiej prawdę o Bogu i człowieku, o dobru i złu, o grzechu i łasce.
+                      </div>
+                  </div>
+              </div>
+              <script type="text/javascript" src="skrypt_tabs/tabs.js"></script>
+          </div>
+
+        </section>
+        <section id="dane">
+          <hr>
+          Rzymsko-Katolicka Parafia Św.Ap. Piotra i Pawła<br>
+          43-190 Mikołów | ul. Staromiejska 91<br>
+          telefon (32) 226-13-99 | kancelaria@parafia-paniowy.pl | www.parafia-paniowy.pl<br>
+          nr konta: ING Bank Śląski O/Mikołów 75105016341000002206221810 <br>&nbsp
+        </section>
+      </div>
+      <script type="text/javascript" src="skrypt_kolory/change_color.js"></script>
+  </body>
+</html>

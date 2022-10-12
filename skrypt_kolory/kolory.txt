@@ -1,0 +1,365 @@
+Sat Jan  1, 2022:SOLEMNITY:White  :Solemnity of Mary, Mother of God
+Sun Jan  2, 2022:SOLEMNITY:White  :Epiphany of the Lord
+Mon Jan  3, 2022:Opt. Mem.:White  :The Most Holy Name of Jesus
+Tue Jan  4, 2022:Memorial :White  :Elizabeth Ann Seton, Rel
+Wed Jan  5, 2022:Memorial :White  :John Neumann, B
+Thu Jan  6, 2022:Opt. Mem.:White  :Andre Bessette, Rel
+Fri Jan  7, 2022:Opt. Mem.:White  :Raymond of Penyafort, P
+Sat Jan  8, 2022:Weekday  :White  :Saturday after Epiphany
+Sun Jan  9, 2022:Feast    :White  :Baptism of the Lord
+Mon Jan 10, 2022:Weekday  :Green  :Monday of the First Week of Ordinary Time
+Tue Jan 11, 2022:Weekday  :Green  :Tuesday of the First Week of Ordinary Time
+Wed Jan 12, 2022:Weekday  :Green  :Wednesday of the First Week of Ordinary Time
+Thu Jan 13, 2022:Opt. Mem.:Green  :Hilary, B & D
+Fri Jan 14, 2022:Weekday  :Green  :Friday of the First Week of Ordinary Time
+Sat Jan 15, 2022:Weekday  :Green  :Saturday of the First Week of Ordinary Time
+Sun Jan 16, 2022:Sunday   :Green  :Second Sunday of Ordinary Time
+Mon Jan 17, 2022:Memorial :White  :Anthony, Ab
+Tue Jan 18, 2022:Weekday  :Green  :Tuesday of the Second Week of Ordinary Time
+Wed Jan 19, 2022:Weekday  :Green  :Wednesday of the Second Week of Ordinary Time
+Thu Jan 20, 2022:Opt. Mem.:Green  :Fabian, Po & M; Sebastian, M
+Fri Jan 21, 2022:Memorial :Red    :Agnes, V & M
+Sat Jan 22, 2022:Opt. Mem.:Green  :Vincent, De & M
+Sun Jan 23, 2022:Sunday   :Green  :Third Sunday of Ordinary Time
+Mon Jan 24, 2022:Memorial :White  :Francis de Sales, B & D
+Tue Jan 25, 2022:Feast    :White  :Conversion of St. Paul, Ap
+Wed Jan 26, 2022:Memorial :White  :Timothy and Titus, Bb
+Thu Jan 27, 2022:Opt. Mem.:Green  :Angela Merici, V
+Fri Jan 28, 2022:Memorial :White  :Thomas Aquinas, P & D
+Sat Jan 29, 2022:Weekday  :Green  :Saturday of the Third Week of Ordinary Time
+Sun Jan 30, 2022:Sunday   :Green  :Fourth Sunday of Ordinary Time
+Mon Jan 31, 2022:Memorial :White  :John Bosco, P
+Tue Feb  1, 2022:Weekday  :Green  :Tuesday of the Fourth Week of Ordinary Time
+Wed Feb  2, 2022:Feast    :White  :Presentation of the Lord
+Thu Feb  3, 2022:Opt. Mem.:Green  :Blase, B & M; Ansgar, B
+Fri Feb  4, 2022:Weekday  :Green  :Friday of the Fourth Week of Ordinary Time
+Sat Feb  5, 2022:Memorial :Red    :Agatha, V & M
+Sun Feb  6, 2022:Sunday   :Green  :Fifth Sunday of Ordinary Time
+Mon Feb  7, 2022:Weekday  :Green  :Monday of the Fifth Week of Ordinary Time
+Tue Feb  8, 2022:Opt. Mem.:Green  :Jerome Emiliani; Josephine Bakhita, V
+Wed Feb  9, 2022:Weekday  :Green  :Wednesday of the Fifth Week of Ordinary Time
+Thu Feb 10, 2022:Memorial :White  :Scholastica, V
+Fri Feb 11, 2022:Opt. Mem.:Green  :Our Lady of Lourdes
+Sat Feb 12, 2022:Weekday  :Green  :Saturday of the Fifth Week of Ordinary Time
+Sun Feb 13, 2022:Sunday   :Green  :Sixth Sunday of Ordinary Time
+Mon Feb 14, 2022:Memorial :White  :Cyril, monk, and Methodius, B
+Tue Feb 15, 2022:Weekday  :Green  :Tuesday of the Sixth Week of Ordinary Time
+Wed Feb 16, 2022:Weekday  :Green  :Wednesday of the Sixth Week of Ordinary Time
+Thu Feb 17, 2022:Opt. Mem.:Green  :Seven Founders of the Order of Servites
+Fri Feb 18, 2022:Weekday  :Green  :Friday of the Sixth Week of Ordinary Time
+Sat Feb 19, 2022:Weekday  :Green  :Saturday of the Sixth Week of Ordinary Time
+Sun Feb 20, 2022:Sunday   :Green  :Seventh Sunday of Ordinary Time
+Mon Feb 21, 2022:Opt. Mem.:Green  :Peter Damian, B & D
+Tue Feb 22, 2022:Feast    :White  :Chair of Peter, Ap
+Wed Feb 23, 2022:Memorial :Red    :Polycarp, B & M
+Thu Feb 24, 2022:Weekday  :Green  :Thursday of the Seventh Week of Ordinary Time
+Fri Feb 25, 2022:Weekday  :Green  :Friday of the Seventh Week of Ordinary Time
+Sat Feb 26, 2022:Weekday  :Green  :Saturday of the Seventh Week of Ordinary Time
+Sun Feb 27, 2022:Sunday   :Green  :Eighth Sunday of Ordinary Time
+Mon Feb 28, 2022:Weekday  :Green  :Monday of the Eighth Week of Ordinary Time
+Tue Mar  1, 2022:Weekday  :Green  :Tuesday of the Eighth Week of Ordinary Time
+Wed Mar  2, 2022:Weekday  :Purple :Ash Wednesday
+Thu Mar  3, 2022:Commem.  :Purple :Katharine Drexel, V
+Fri Mar  4, 2022:Commem.  :Purple :Casimir
+Sat Mar  5, 2022:Weekday  :Purple :Saturday after Ash Wednesday
+Sun Mar  6, 2022:Sunday   :Purple :First Sunday of Lent
+Mon Mar  7, 2022:Commem.  :Purple :Perpetua and Felicity, Mm 
+Tue Mar  8, 2022:Commem.  :Purple :John of God, Rel
+Wed Mar  9, 2022:Commem.  :Purple :Frances of Rome, Rel
+Thu Mar 10, 2022:Weekday  :Purple :Thursday of the First Week of Lent
+Fri Mar 11, 2022:Weekday  :Purple :Friday of the First Week of Lent
+Sat Mar 12, 2022:Weekday  :Purple :Saturday of the First Week of Lent
+Sun Mar 13, 2022:Sunday   :Purple :Second Sunday of Lent
+Mon Mar 14, 2022:Weekday  :Purple :Monday of the Second Week of Lent
+Tue Mar 15, 2022:Weekday  :Purple :Tuesday of the Second Week of Lent
+Wed Mar 16, 2022:Weekday  :Purple :Wednesday of the Second Week of Lent
+Thu Mar 17, 2022:Commem.  :Purple :Patrick, B
+Fri Mar 18, 2022:Commem.  :Purple :Cyril of Jerusalem, B & D
+Sat Mar 19, 2022:SOLEMNITY:White  :Joseph, Husband of Mary
+Sun Mar 20, 2022:Sunday   :Purple :Third Sunday of Lent
+Mon Mar 21, 2022:Weekday  :Purple :Monday of the Third Week of Lent
+Tue Mar 22, 2022:Weekday  :Purple :Tuesday of the Third Week of Lent
+Wed Mar 23, 2022:Commem.  :Purple :Turibius de Mogrovejo, B
+Thu Mar 24, 2022:Weekday  :Purple :Thursday of the Third Week of Lent
+Fri Mar 25, 2022:SOLEMNITY:White  :Annunciation
+Sat Mar 26, 2022:Weekday  :Purple :Saturday of the Third Week of Lent
+Sun Mar 27, 2022:Sunday   :Rose   :Fourth Sunday of Lent
+Mon Mar 28, 2022:Weekday  :Purple :Monday of the Fourth Week of Lent
+Tue Mar 29, 2022:Weekday  :Purple :Tuesday of the Fourth Week of Lent
+Wed Mar 30, 2022:Weekday  :Purple :Wednesday of the Fourth Week of Lent
+Thu Mar 31, 2022:Weekday  :Purple :Thursday of the Fourth Week of Lent
+Fri Apr  1, 2022:Weekday  :Purple :Friday of the Fourth Week of Lent
+Sat Apr  2, 2022:Commem.  :Purple :Francis of Paola, hermit
+Sun Apr  3, 2022:Sunday   :Purple :Fifth Sunday of Lent
+Mon Apr  4, 2022:Commem.  :Purple :Isidore, B & D
+Tue Apr  5, 2022:Commem.  :Purple :Vincent Ferrer, P
+Wed Apr  6, 2022:Weekday  :Purple :Wednesday of the Fifth Week of Lent
+Thu Apr  7, 2022:Commem.  :Purple :John Baptist de la Salle, P
+Fri Apr  8, 2022:Weekday  :Purple :Friday of the Fifth Week of Lent
+Sat Apr  9, 2022:Weekday  :Purple :Saturday of the Fifth Week of Lent
+Sun Apr 10, 2022:Sunday   :Red    :Palm Sunday
+Mon Apr 11, 2022:Holy Week:Purple :Monday of Holy Week
+Tue Apr 12, 2022:Holy Week:Purple :Tuesday of Holy Week
+Wed Apr 13, 2022:Holy Week:Purple :Wednesday of Holy Week
+Thu Apr 14, 2022:Triduum  :White  :Holy Thursday
+Fri Apr 15, 2022:Triduum  :Red    :Good Friday
+Sat Apr 16, 2022:Triduum  :White  :Easter Vigil
+Sun Apr 17, 2022:SOLEMNITY:White  :Easter Sunday
+Mon Apr 18, 2022:SOLEMNITY:White  :Monday in the Octave of Easter
+Tue Apr 19, 2022:SOLEMNITY:White  :Tuesday in the Octave of Easter
+Wed Apr 20, 2022:SOLEMNITY:White  :Wednesday in the Octave of Easter
+Thu Apr 21, 2022:SOLEMNITY:White  :Thursday in the Octave of Easter
+Fri Apr 22, 2022:SOLEMNITY:White  :Friday in the Octave of Easter
+Sat Apr 23, 2022:SOLEMNITY:White  :Saturday in the Octave of Easter
+Sun Apr 24, 2022:SOLEMNITY:White  :Sunday of Divine Mercy
+Mon Apr 25, 2022:Feast    :Red    :Mark, Evangelist
+Tue Apr 26, 2022:Weekday  :White  :Tuesday of the Second Week of Easter
+Wed Apr 27, 2022:Weekday  :White  :Wednesday of the Second Week of Easter
+Thu Apr 28, 2022:Opt. Mem.:White  :Peter Chanel, P & M; Louis Grignion de Montfort, P
+Fri Apr 29, 2022:Memorial :White  :Catherine of Siena, V & D
+Sat Apr 30, 2022:Opt. Mem.:White  :Pius V, Po
+Sun May  1, 2022:Sunday   :White  :Third Sunday of Easter
+Mon May  2, 2022:Memorial :White  :Athanasius, B & D
+Tue May  3, 2022:Feast    :Red    :Philip & James, Ap
+Wed May  4, 2022:Weekday  :White  :Wednesday of the Third Week of Easter
+Thu May  5, 2022:Weekday  :White  :Thursday of the Third Week of Easter
+Fri May  6, 2022:Weekday  :White  :Friday of the Third Week of Easter
+Sat May  7, 2022:Weekday  :White  :Saturday of the Third Week of Easter
+Sun May  8, 2022:Sunday   :White  :Fourth Sunday of Easter
+Mon May  9, 2022:Weekday  :White  :Monday of the Fourth Week of Easter
+Tue May 10, 2022:Opt. Mem.:White  :Damien Joseph de Veuster, P
+Wed May 11, 2022:Weekday  :White  :Wednesday of the Fourth Week of Easter
+Thu May 12, 2022:Opt. Mem.:White  :Nereus and Achilleus, Mm; Pancras, M
+Fri May 13, 2022:Opt. Mem.:White  :Our Lady of Fatima
+Sat May 14, 2022:Feast    :Red    :Matthias, Ap
+Sun May 15, 2022:Sunday   :White  :Fifth Sunday of Easter
+Mon May 16, 2022:Weekday  :White  :Monday of the Fifth Week of Easter
+Tue May 17, 2022:Weekday  :White  :Tuesday of the Fifth Week of Easter
+Wed May 18, 2022:Opt. Mem.:White  :John I, Po & M
+Thu May 19, 2022:Weekday  :White  :Thursday of the Fifth Week of Easter
+Fri May 20, 2022:Opt. Mem.:White  :Bernardine of Siena, P
+Sat May 21, 2022:Opt. Mem.:White  :Christopher Magallanes, P & M, and Companions, Mm
+Sun May 22, 2022:Sunday   :White  :Sixth Sunday of Easter
+Mon May 23, 2022:Weekday  :White  :Monday of the Sixth Week of Easter
+Tue May 24, 2022:Weekday  :White  :Tuesday of the Sixth Week of Easter
+Wed May 25, 2022:Opt. Mem.:White  :Venerable Bede, P & D; Gregory VII, Po; Mary Magdalene de Pazzi, V
+Thu May 26, 2022:SOLEMNITY:White  :Ascension of the Lord
+Fri May 27, 2022:Opt. Mem.:White  :Augustine of Canterbury, B
+Sat May 28, 2022:Weekday  :White  :Saturday of the Sixth Week of Easter
+Sun May 29, 2022:Sunday   :White  :Seventh Sunday of Easter
+Mon May 30, 2022:Weekday  :White  :Monday of the Seventh Week of Easter
+Tue May 31, 2022:Feast    :White  :Visitation
+Wed Jun  1, 2022:Memorial :Red    :Justin, M
+Thu Jun  2, 2022:Opt. Mem.:White  :Marcellinus and Peter, Mm
+Fri Jun  3, 2022:Memorial :Red    :Charles Lwanga and Companions, Mm
+Sat Jun  4, 2022:Weekday  :White  :Saturday of the Seventh Week of Easter
+Sun Jun  5, 2022:SOLEMNITY:Red    :Pentecost Sunday
+Mon Jun  6, 2022:Memorial :White  :Mary, the Mother of the Church
+Tue Jun  7, 2022:Weekday  :Green  :Tuesday of the Tenth Week of Ordinary Time
+Wed Jun  8, 2022:Weekday  :Green  :Wednesday of the Tenth Week of Ordinary Time
+Thu Jun  9, 2022:Opt. Mem.:Green  :Ephrem, De & D
+Fri Jun 10, 2022:Weekday  :Green  :Friday of the Tenth Week of Ordinary Time
+Sat Jun 11, 2022:Memorial :Red    :Barnabas, Ap
+Sun Jun 12, 2022:SOLEMNITY:White  :Trinity Sunday
+Mon Jun 13, 2022:Memorial :White  :Anthony of Padua, P & D
+Tue Jun 14, 2022:Weekday  :Green  :Tuesday of the Eleventh Week of Ordinary Time
+Wed Jun 15, 2022:Weekday  :Green  :Wednesday of the Eleventh Week of Ordinary Time
+Thu Jun 16, 2022:Weekday  :Green  :Thursday of the Eleventh Week of Ordinary Time
+Fri Jun 17, 2022:Weekday  :Green  :Friday of the Eleventh Week of Ordinary Time
+Sat Jun 18, 2022:Weekday  :Green  :Saturday of the Eleventh Week of Ordinary Time
+Sun Jun 19, 2022:SOLEMNITY:White  :Corpus Christi
+Mon Jun 20, 2022:Weekday  :Green  :Monday of the Twelfth Week of Ordinary Time
+Tue Jun 21, 2022:Memorial :White  :Aloysius Gonzaga, Rel
+Wed Jun 22, 2022:Opt. Mem.:Green  :Paulinus of Nola, B; John Fisher, B & M and Thomas More, M
+Thu Jun 23, 2022:Weekday  :Green  :Thursday of the Twelfth Week of Ordinary Time
+Fri Jun 24, 2022:SOLEMNITY:White  :Sacred Heart of Jesus
+Sat Jun 25, 2022:Memorial :White  :Immaculate Heart of Mary
+Sun Jun 26, 2022:Sunday   :Green  :Thirteenth Sunday of Ordinary Time
+Mon Jun 27, 2022:Opt. Mem.:Green  :Cyril of Alexandria, B & D
+Tue Jun 28, 2022:Memorial :Red    :Irenaeus, B & M
+Wed Jun 29, 2022:SOLEMNITY:Red    :Peter and Paul, Ap
+Thu Jun 30, 2022:Opt. Mem.:Green  :First Martyrs of the Church of Rome
+Fri Jul  1, 2022:Opt. Mem.:Green  :Junipero Serra, P
+Sat Jul  2, 2022:Weekday  :Green  :Saturday of the Thirteenth Week of Ordinary Time
+Sun Jul  3, 2022:Sunday   :Green  :Fourteenth Sunday of Ordinary Time
+Mon Jul  4, 2022:Opt. Mem.:Green  :Elizabeth of Portugal
+Tue Jul  5, 2022:Opt. Mem.:Green  :Anthony Zaccaria, P
+Wed Jul  6, 2022:Opt. Mem.:Green  :Maria Goretti, V & M
+Thu Jul  7, 2022:Weekday  :Green  :Thursday of the Fourteenth Week of Ordinary Time
+Fri Jul  8, 2022:Weekday  :Green  :Friday of the Fourteenth Week of Ordinary Time
+Sat Jul  9, 2022:Opt. Mem.:Green  :Augustine Zhao Rong, P & M, and Companions, Mm
+Sun Jul 10, 2022:Sunday   :Green  :Fifteenth Sunday of Ordinary Time
+Mon Jul 11, 2022:Memorial :White  :Benedict, Ab
+Tue Jul 12, 2022:Weekday  :Green  :Tuesday of the Fifteenth Week of Ordinary Time
+Wed Jul 13, 2022:Opt. Mem.:Green  :Henry
+Thu Jul 14, 2022:Memorial :White  :Kateri Tekakwitha, V
+Fri Jul 15, 2022:Memorial :White  :Bonaventure, B & D
+Sat Jul 16, 2022:Opt. Mem.:Green  :Our Lady of Mount Carmel
+Sun Jul 17, 2022:Sunday   :Green  :Sixteenth Sunday of Ordinary Time
+Mon Jul 18, 2022:Opt. Mem.:Green  :Camillus de Lellis, P
+Tue Jul 19, 2022:Weekday  :Green  :Tuesday of the Sixteenth Week of Ordinary Time
+Wed Jul 20, 2022:Opt. Mem.:Green  :Apollinarus, B & M
+Thu Jul 21, 2022:Opt. Mem.:Green  :Lawrence of Brindisi, P & D
+Fri Jul 22, 2022:Feast    :White  :Mary Magdalene
+Sat Jul 23, 2022:Opt. Mem.:Green  :Bridget, Rel
+Sun Jul 24, 2022:Sunday   :Green  :Seventeenth Sunday of Ordinary Time
+Mon Jul 25, 2022:Feast    :Red    :James, Ap
+Tue Jul 26, 2022:Memorial :White  :Joachim and Anne, Parents of Mary
+Wed Jul 27, 2022:Weekday  :Green  :Wednesday of the Seventeenth Week of Ordinary Time
+Thu Jul 28, 2022:Weekday  :Green  :Thursday of the Seventeenth Week of Ordinary Time
+Fri Jul 29, 2022:Memorial :White  :Martha
+Sat Jul 30, 2022:Opt. Mem.:Green  :Peter Chrysologus, B & D
+Sun Jul 31, 2022:Sunday   :Green  :Eighteenth Sunday of Ordinary Time
+Mon Aug  1, 2022:Memorial :White  :Alphonsus Liguori, B & D
+Tue Aug  2, 2022:Opt. Mem.:Green  :Eusebius of Vercelli, B; Peter Julian Eymard, P
+Wed Aug  3, 2022:Weekday  :Green  :Wednesday of the Eighteenth Week of Ordinary Time
+Thu Aug  4, 2022:Memorial :White  :John Vianney, P
+Fri Aug  5, 2022:Opt. Mem.:Green  :Dedication of St. Mary Major
+Sat Aug  6, 2022:Feast    :White  :Transfiguration
+Sun Aug  7, 2022:Sunday   :Green  :Nineteenth Sunday of Ordinary Time
+Mon Aug  8, 2022:Memorial :White  :Dominic, P
+Tue Aug  9, 2022:Opt. Mem.:Green  :Teresiae Benedicta of the Cross, V & M
+Wed Aug 10, 2022:Feast    :Red    :Lawrence, De & M
+Thu Aug 11, 2022:Memorial :White  :Clare, V
+Fri Aug 12, 2022:Opt. Mem.:Green  :Jane Frances de Chantal, Rel
+Sat Aug 13, 2022:Opt. Mem.:Green  :Pontian, Po & M and Hippolytus, P & M
+Sun Aug 14, 2022:Sunday   :Green  :Twentieth Sunday of Ordinary Time
+Mon Aug 15, 2022:SOLEMNITY:White  :Assumption
+Tue Aug 16, 2022:Opt. Mem.:Green  :Stephen of Hungary
+Wed Aug 17, 2022:Weekday  :Green  :Wednesday of the Twentieth Week of Ordinary Time
+Thu Aug 18, 2022:Weekday  :Green  :Thursday of the Twentieth Week of Ordinary Time
+Fri Aug 19, 2022:Opt. Mem.:Green  :John Eudes, P
+Sat Aug 20, 2022:Memorial :White  :Bernard, Ab & D
+Sun Aug 21, 2022:Sunday   :Green  :Twenty-First Sunday of Ordinary Time
+Mon Aug 22, 2022:Memorial :White  :Queenship of Mary
+Tue Aug 23, 2022:Opt. Mem.:Green  :Rose of Lima, V
+Wed Aug 24, 2022:Feast    :Red    :Bartholomew, Ap
+Thu Aug 25, 2022:Opt. Mem.:Green  :Louis of France; Joseph Calasanz, P
+Fri Aug 26, 2022:Weekday  :Green  :Friday of the Twenty-First Week of Ordinary Time
+Sat Aug 27, 2022:Memorial :White  :Monica
+Sun Aug 28, 2022:Sunday   :Green  :Twenty-Second Sunday of Ordinary Time
+Mon Aug 29, 2022:Memorial :Red    :Beheading of John the Baptist, M
+Tue Aug 30, 2022:Weekday  :Green  :Tuesday of the Twenty-Second Week of Ordinary Time
+Wed Aug 31, 2022:Weekday  :Green  :Wednesday of the Twenty-Second Week of Ordinary Time
+Thu Sep  1, 2022:Weekday  :Green  :Thursday of the Twenty-Second Week of Ordinary Time
+Fri Sep  2, 2022:Weekday  :Green  :Friday of the Twenty-Second Week of Ordinary Time
+Sat Sep  3, 2022:Memorial :White  :Gregory the Great, Po & D
+Sun Sep  4, 2022:Sunday   :Green  :Twenty-Third Sunday of Ordinary Time
+Mon Sep  5, 2022:Weekday  :Green  :Monday of the Twenty-Third Week of Ordinary Time
+Tue Sep  6, 2022:Weekday  :Green  :Tuesday of the Twenty-Third Week of Ordinary Time
+Wed Sep  7, 2022:Weekday  :Green  :Wednesday of the Twenty-Third Week of Ordinary Time
+Thu Sep  8, 2022:Feast    :White  :Birth of Mary
+Fri Sep  9, 2022:Memorial :White  :Peter Claver, P
+Sat Sep 10, 2022:Weekday  :Green  :Saturday of the Twenty-Third Week of Ordinary Time
+Sun Sep 11, 2022:Sunday   :Green  :Twenty-Fourth Sunday of Ordinary Time
+Mon Sep 12, 2022:Opt. Mem.:Green  :The Most Name of the Blessed Virgin Mary
+Tue Sep 13, 2022:Memorial :White  :John Chrysostom, B & D
+Wed Sep 14, 2022:Feast    :Red    :Triumph of the Cross
+Thu Sep 15, 2022:Memorial :White  :Our Lady of Sorrows
+Fri Sep 16, 2022:Memorial :Red    :Cornelius, Po & M and Cyprian, B & M
+Sat Sep 17, 2022:Opt. Mem.:Green  :Robert Bellarmine, B & D
+Sun Sep 18, 2022:Sunday   :Green  :Twenty-Fifth Sunday of Ordinary Time
+Mon Sep 19, 2022:Opt. Mem.:Green  :Janurius, B & M
+Tue Sep 20, 2022:Memorial :Red    :Andrew Kim Taegon, P & M, Paul Chong Hasang, M, & Companions, Mm
+Wed Sep 21, 2022:Feast    :Red    :Matthew, Ap & Evangelist
+Thu Sep 22, 2022:Weekday  :Green  :Thursday of the Twenty-Fifth Week of Ordinary Time
+Fri Sep 23, 2022:Opt. Mem.:Green  :Pio of Pietreclina, P
+Sat Sep 24, 2022:Weekday  :Green  :Saturday of the Twenty-Fifth Week of Ordinary Time
+Sun Sep 25, 2022:Sunday   :Green  :Twenty-Sixth Sunday of Ordinary Time
+Mon Sep 26, 2022:Opt. Mem.:Green  :Cosmas and Damian, Mm
+Tue Sep 27, 2022:Memorial :White  :Vincent de Paul, P
+Wed Sep 28, 2022:Opt. Mem.:Green  :Wenceslaus, M; Lawrence Ruiz and Companions, Mm
+Thu Sep 29, 2022:Feast    :White  :Michael, Gabriel, and Raphael, Archangels
+Fri Sep 30, 2022:Memorial :White  :Jerome, P & D
+Sat Oct  1, 2022:Memorial :White  :Therese of the Child Jesus, V & D
+Sun Oct  2, 2022:Sunday   :Green  :Twenty-Seventh Sunday of Ordinary Time
+Mon Oct  3, 2022:Weekday  :Green  :Monday of the Twenty-Seventh Week of Ordinary Time
+Tue Oct  4, 2022:Memorial :White  :Francis of Assisi, Rel
+Wed Oct  5, 2022:Opt. Mem.:Green  :Bl. Francis Xavier Seelos, P
+Thu Oct  6, 2022:Opt. Mem.:Green  :Bruno, P; Bl. Marie Rose Durocher, V
+Fri Oct  7, 2022:Memorial :White  :Our Lady of the Rosary
+Sat Oct  8, 2022:Weekday  :Green  :Saturday of the Twenty-Seventh Week of Ordinary Time
+Sun Oct  9, 2022:Sunday   :Green  :Twenty-Eighth Sunday of Ordinary Time
+Mon Oct 10, 2022:Weekday  :Green  :Monday of the Twenty-Eighth Week of Ordinary Time
+Tue Oct 11, 2022:Opt. Mem.:Green  :John XXIII, Po
+Wed Oct 12, 2022:Weekday  :Green  :Wednesday of the Twenty-Eighth Week of Ordinary Time
+Thu Oct 13, 2022:Weekday  :Green  :Thursday of the Twenty-Eighth Week of Ordinary Time
+Fri Oct 14, 2022:Opt. Mem.:Green  :Callistus I, Po & M
+Sat Oct 15, 2022:Memorial :White  :Teresa of Avila, V & D
+Sun Oct 16, 2022:Sunday   :Green  :Twenty-Ninth Sunday of Ordinary Time
+Mon Oct 17, 2022:Memorial :Red    :Ignatius of Antioch, B & M
+Tue Oct 18, 2022:Feast    :Red    :Luke, Evangelist
+Wed Oct 19, 2022:Memorial :Red    :John de Brebeuf and Isaac Jogues, P & Mm, and Companions, Mm
+Thu Oct 20, 2022:Opt. Mem.:Green  :Paul of the Cross, P
+Fri Oct 21, 2022:Weekday  :Green  :Friday of the Twenty-Ninth Week of Ordinary Time
+Sat Oct 22, 2022:Opt. Mem.:Green  :John Paul II, Po
+Sun Oct 23, 2022:Sunday   :Green  :Thirtieth Sunday of Ordinary Time
+Mon Oct 24, 2022:Opt. Mem.:Green  :Anthony Claret, B
+Tue Oct 25, 2022:Weekday  :Green  :Tuesday of the Thirtieth Week of Ordinary Time
+Wed Oct 26, 2022:Weekday  :Green  :Wednesday of the Thirtieth Week of Ordinary Time
+Thu Oct 27, 2022:Weekday  :Green  :Thursday of the Thirtieth Week of Ordinary Time
+Fri Oct 28, 2022:Feast    :Red    :Simon and Jude, Ap
+Sat Oct 29, 2022:Weekday  :Green  :Saturday of the Thirtieth Week of Ordinary Time
+Sun Oct 30, 2022:Sunday   :Green  :Thirty-First Sunday of Ordinary Time
+Mon Oct 31, 2022:Weekday  :Green  :Monday of the Thirty-First Week of Ordinary Time
+Tue Nov  1, 2022:SOLEMNITY:White  :All Saints
+Wed Nov  2, 2022:Feast    :White  :All Souls
+Thu Nov  3, 2022:Opt. Mem.:Green  :Martin de Porres, Rel
+Fri Nov  4, 2022:Memorial :White  :Charles Borromeo, B
+Sat Nov  5, 2022:Weekday  :Green  :Saturday of the Thirty-First Week of Ordinary Time
+Sun Nov  6, 2022:Sunday   :Green  :Thirty-Second Sunday of Ordinary Time
+Mon Nov  7, 2022:Weekday  :Green  :Monday of the Thirty-Second Week of Ordinary Time
+Tue Nov  8, 2022:Weekday  :Green  :Tuesday of the Thirty-Second Week of Ordinary Time
+Wed Nov  9, 2022:Feast    :White  :Dedication of St. John Lateran
+Thu Nov 10, 2022:Memorial :White  :Leo the Great, Po & D
+Fri Nov 11, 2022:Memorial :White  :Martin of Tours, B
+Sat Nov 12, 2022:Memorial :Red    :Josaphat, B & M
+Sun Nov 13, 2022:Sunday   :Green  :Thirty-Third Sunday of Ordinary Time
+Mon Nov 14, 2022:Weekday  :Green  :Monday of the Thirty-Third Week of Ordinary Time
+Tue Nov 15, 2022:Opt. Mem.:Green  :Albert the Great, B & D
+Wed Nov 16, 2022:Opt. Mem.:Green  :Margaret of Scotland; Gertrude, V
+Thu Nov 17, 2022:Memorial :White  :Elizabeth of Hungary, Rel
+Fri Nov 18, 2022:Opt. Mem.:Green  :Dedication of Churches of Peter & Paul; Rose Philippine Duchesne, V
+Sat Nov 19, 2022:Weekday  :Green  :Saturday of the Thirty-Third Week of Ordinary Time
+Sun Nov 20, 2022:SOLEMNITY:White  :Christ the King
+Mon Nov 21, 2022:Memorial :White  :Presentation of Mary
+Tue Nov 22, 2022:Memorial :Red    :Cecilia, V & M
+Wed Nov 23, 2022:Opt. Mem.:Green  :Clement I, Po & M; Columban, Ab; Bl. Miguel Pro, P & M
+Thu Nov 24, 2022:Memorial :Red    :Andrew Dung-Lac, P & M, and Companions, Mm
+Fri Nov 25, 2022:Opt. Mem.:Green  :Catherine of Alexandria, V & M
+Sat Nov 26, 2022:Weekday  :Green  :Saturday of the Thirty-Fourth Week of Ordinary Time
+Sun Nov 27, 2022:Sunday   :Purple :First Sunday of Advent
+Mon Nov 28, 2022:Weekday  :Purple :Monday of the First Week of Advent
+Tue Nov 29, 2022:Weekday  :Purple :Tuesday of the First Week of Advent
+Wed Nov 30, 2022:Feast    :Red    :Andrew, Ap
+Thu Dec  1, 2022:Weekday  :Purple :Thursday of the First Week of Advent
+Fri Dec  2, 2022:Weekday  :Purple :Friday of the First Week of Advent
+Sat Dec  3, 2022:Memorial :White  :Frances Xavier, P
+Sun Dec  4, 2022:Sunday   :Purple :Second Sunday of Advent
+Mon Dec  5, 2022:Weekday  :Purple :Monday of the Second Week of Advent
+Tue Dec  6, 2022:Opt. Mem.:Purple :Nicholas, B
+Wed Dec  7, 2022:Memorial :White  :Ambrose, B & D
+Thu Dec  8, 2022:SOLEMNITY:White  :Immaculate Conception
+Fri Dec  9, 2022:Opt. Mem.:Purple :Juan Diego
+Sat Dec 10, 2022:Weekday  :Purple :Saturday of the Second Week of Advent
+Sun Dec 11, 2022:Sunday   :Rose   :Third Sunday of Advent
+Mon Dec 12, 2022:Feast    :White  :Our Lady of Guadalupe
+Tue Dec 13, 2022:Memorial :Red    :Lucy, V & M
+Wed Dec 14, 2022:Memorial :White  :John of the Cross, P & D
+Thu Dec 15, 2022:Weekday  :Purple :Thursday of the Third Week of Advent
+Fri Dec 16, 2022:Weekday  :Purple :Friday of the Third Week of Advent
+Sat Dec 17, 2022:Weekday  :Purple :Saturday of the Third Week of Advent
+Sun Dec 18, 2022:Sunday   :Purple :Fourth Sunday of Advent
+Mon Dec 19, 2022:Weekday  :Purple :Monday of the Fourth Week of Advent
+Tue Dec 20, 2022:Weekday  :Purple :Tuesday of the Fourth Week of Advent
+Wed Dec 21, 2022:Opt. Mem.:Purple :Peter Canisius, P & D
+Thu Dec 22, 2022:Weekday  :Purple :Thursday of the Fourth Week of Advent
+Fri Dec 23, 2022:Opt. Mem.:Purple :John of Kanty, P
+Sat Dec 24, 2022:Weekday  :Purple :Saturday of the Fourth Week of Advent
+Sun Dec 25, 2022:SOLEMNITY:White  :Christmas
+Mon Dec 26, 2022:Feast    :Red    :Stephen, M
+Tue Dec 27, 2022:Feast    :White  :John, Ap and Evangelist
+Wed Dec 28, 2022:Feast    :Red    :Holy Innocents, Mm
+Thu Dec 29, 2022:Opt. Mem.:White  :Thomas Becket, B & M
+Fri Dec 30, 2022:Weekday  :White  :Holy Family
+Sat Dec 31, 2022:Opt. Mem.:White  :Sylvester I, Po

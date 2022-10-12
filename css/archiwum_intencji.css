@@ -1,0 +1,24 @@
+.open {
+margin: 0;
+cursor: pointer;
+background: url(../images/open.png) no-repeat 8px 7px;
+color: black;
+font-weight: bold;
+padding: 5px 0 2px 30px;
+border-radius: 20px;
+}
+.ai {
+width: 90%;
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 15px;
+margin-bottom: 5px;
+}
+.ai section {
+padding: 10px 10px 10px 10px;
+display: none;
+}
+
+.close {
+background-image: url(../images/close.png);
+}
